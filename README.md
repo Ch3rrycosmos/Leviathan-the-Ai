@@ -1,2 +1,2 @@
 # Leviathan-the-Ai
-A small python project i did referencing "code with harry" tutorial
+A small python project i did for fun!
